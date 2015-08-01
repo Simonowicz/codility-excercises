@@ -1,4 +1,4 @@
-package tapeEquilibrium;
+package lessonOne.tapeEquilibrium;
 
 import org.junit.Assert;
 import org.junit.Test;
