@@ -1,4 +1,4 @@
-package lessonTwo;
+package lessonTwo.missingIntegers;
 
 import lessonTwo.missingInteger.Solution;
 import org.junit.Assert;
