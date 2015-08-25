@@ -1,4 +1,4 @@
-package lessonOne.permMissingElement;
+package lesson1.permMissingElement;
 
 /**
  * Created by Szymon on 2015-08-02.

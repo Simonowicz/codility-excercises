@@ -1,4 +1,4 @@
-package lessonTwo.missingInteger;
+package lesson2.missingInteger;
 
 /**
  * Created by Szymon on 2015-08-24.

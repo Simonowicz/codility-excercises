@@ -1,6 +1,6 @@
-package lessonTwo.missingIntegers;
+package lesson2.missingIntegers;
 
-import lessonTwo.missingInteger.Solution;
+import lesson2.missingInteger.Solution;
 import org.junit.Assert;
 import org.junit.Test;
 

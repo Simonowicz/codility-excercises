@@ -1,4 +1,4 @@
-package lessonOne.tapeEquilibrium;
+package lesson1.tapeEquilibrium;
 
 /**
  * Created by Szymon on 2015-08-01.

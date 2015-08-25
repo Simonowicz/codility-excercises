@@ -1,4 +1,4 @@
-package lessonOne.permMissingElement;
+package lesson1.permMissingElement;
 
 import org.junit.Assert;
 import org.junit.Test;

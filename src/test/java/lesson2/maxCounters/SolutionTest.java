@@ -1,4 +1,4 @@
-package lessonTwo.maxCounters;
+package lesson2.maxCounters;
 
 import org.junit.Assert;
 import org.junit.Test;

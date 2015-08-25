@@ -1,4 +1,4 @@
-package lessonTwo.maxCounters;
+package lesson2.maxCounters;
 
 /**
  * Created by Szymon on 2015-08-25.
